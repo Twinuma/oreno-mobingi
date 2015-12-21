@@ -6,4 +6,4 @@ cd /usr/share/nginx/www
 sudo curl -sS https://getcomposer.org/installer | sudo php
 sudo mv composer.phar /usr/local/bin/composer
 
-sudo composer install
+sudo php composer.phar install
