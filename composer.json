@@ -9,6 +9,6 @@
   "require": {
     "sendgrid/sendgrid": "~4.0",
     "vlucas/phpdotenv": "~2.1.0",
-    "guzzle/guzzle": "~3.9"
+    "guzzle/guzzle": "~3.9.3"
   }
 }
